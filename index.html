@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+
+
+<!-- Mirrored from football-superstars.apps.minigame.vip/minigame-index.html?mn_config=https://indigo.minigame.vip/v1/api/channel/indigo/main/game/football-superstars/config&ts=1690359834854 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 26 Jul 2023 08:33:41 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+
+    <meta name="viewport" content="user-scalable=no">
+
+    <title>Football Superstars 2022</title>
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/game.css">
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="icon" type="image/png" href="assets/favicon/icon-36x36.png" sizes="36x36">
+    <link rel="icon" type="image/png" href="assets/favicon/icon-48x48.png" sizes="48x48">
+    <link rel="icon" type="image/png" href="assets/favicon/icon-72x72.png" sizes="72x72">
+    <link rel="icon" type="image/png" href="assets/favicon/icon-152x152.png" sizes="152x152">
+    <link rel="icon" type="image/png" href="assets/favicon/icon-512x512.png" sizes="512x512">
+
+    <link rel="apple-touch-icon" type="image/png" href="assets/favicon/icon-36x36.png" sizes="36x36">
+    <link rel="apple-touch-icon" type="image/png" href="assets/favicon/icon-48x48.png" sizes="48x48">
+    <link rel="apple-touch-icon" type="image/png" href="assets/favicon/icon-72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon" type="image/png" href="assets/favicon/icon-152x152.png" sizes="152x152">
+    <link rel="apple-touch-icon" type="image/png" href="assets/favicon/icon-512x512.png" sizes="512x512">
+
+    <script src="sdk.minigame.vip/js/1.5/minigame806d.js?t=1686903422"></script>
+    <script>
+        var SDK_ON_READY = false;
+        minigame.initializeAsync().then(function () {
+            SDK_ON_READY = true
+            minigame.getEntryPointAsync().then(function (entry) {
+                console.info("Entry Point: ", entry);
+            });
+            console.info("Context Type: ", minigame.context.getType());
+        })
+        function on_sdk_init () {
+            if (SDK_ON_READY) {
+                minigame.startGameAsync()
+            } else {
+                setTimeout(on_sdk_init, 10)
+            }
+        }
+        function show_insert_ad (ctx) {
+            console.warn("show_insert_ad")
+            if (window.SDK_ON_READY && window.MiniGameAds && MiniGameAds.isInterstitialReady()) {
+                ctx.onPlay();
+                MiniGameAds.showInterstitial().then(() => {
+                    ctx.onClose()
+                }).catch(() => {
+                    ctx.onClose()
+                })
+            } else {
+                ctx.onPlay();
+                setTimeout(function () {
+                    ctx.onClose()
+                }, 10)
+            }
+        }
+    </script>
+</head>
+
+<body style="background-color: #000000">
+
+    <div id="wrongRotation">
+        <img src="assets/img/rotate_screen.png" alt="" />
+    </div>
+
+    <div id="game">
+
+
+        <script src="js/game.js"></script>
+
+    </div>
+    <div id="ads"></div>
+
+    <div class="font_preload" style="opacity: 0">
+        <span style="font-family: 'gameFont', 'Arial', normal;"></span>
+    </div>
+
+</body>
+
+
+<!-- Mirrored from football-superstars.apps.minigame.vip/minigame-index.html?mn_config=https://indigo.minigame.vip/v1/api/channel/indigo/main/game/football-superstars/config&ts=1690359834854 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 26 Jul 2023 08:33:42 GMT -->
+</html>

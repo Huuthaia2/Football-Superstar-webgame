@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+    <strings>
+        <string id="YES">
+            <en>YES</en>
+            <es>SÍ</es>
+            <de>JA</de>
+            <it>SÌ</it>
+            <fr>OUI</fr>
+            <ru>ДА</ru>
+            <pt>SIM</pt>
+        </string>
+
+        <string id="NO">
+            <en>NO</en>
+            <es>NO</es>
+            <de>NEIN</de>
+            <it>NO</it>
+            <fr>NON</fr>
+            <ru>Нет</ru>
+            <pt>NÃO</pt>
+        </string>
+
+        <string id="PLAY">
+            <en>PLAY</en>
+            <es>JUGAR</es>
+            <de>SPIELEN</de>
+            <it>GIOCA</it>
+            <fr>JOUER</fr>
+            <pt>JOGAR</pt>
+            <ru>ИГРАТЬ</ru>
+        </string>
+
+        <string id="DAILY_CHALLENGE">
+            <en>DAILY CHALLENGE</en>
+            <es>DESAFÍO DIARIO</es>
+            <de>TAGESHERAUSFORDERUNG</de>
+            <it>SFIDA GIORNALIERA</it>
+            <fr>DÉFI QUOTIDIEN</fr>
+            <pt>DESAFIO DIÁRIO</pt>
+            <ru>ЕЖЕДНЕВНЫЕ\nЗАДАНИЯ</ru>
+        </string>
+
+        <string id="INSTRUCTIONS" index="7">
+            <en>INSTRUCTIONS</en>
+            <es>INSTRUCCIONES</es>
+            <de>ANWEISUNGEN</de>
+            <it>ISTRUZIONI</it>
+            <fr>INSTRUCTIONS</fr>
+            <ru>ИНСТРУКЦИИ</ru>
+            <pt>INSTRUÇÕES</pt>
+            <nl>INSTRUKTIONER</nl>
+            <no>BRUKSANVISNING</no>
+        </string>
+
+        <string id="INSTRUCTIONS_TEXT" index="7">
+            <en>Circles are split into small pieces. Your job is easy – move pieces from center circle into outer ones to fill and remove them.\n\nIn some game modes, you’ll need to combine them in certain order.</en>
+            <de>Kreise sind in kleine Teile zerteilt. Deine Aufgabe ist leicht – bewege Teile aus dem inneren Kreis in äußere, um sie zu füllen und zu entfernen.\n\nIn manchen Spielmodi musst du sie in bestimmter Reihenfolge kombinieren.</de>
+            <es>Los círculos están divididos en piezas. El objetivo es sencillo: mueve las piezas del círculo interior a los círculos exteriores para rellenarlos y que se eliminen.\n\nEn algunos modos de juego, deberás combinarlas en un orden concreto.</es>
+            <fr>Les cercles sont divisés en petites pièces. Votre tâche est simple : déplacez les pièces du cercle central vers les cercles extérieurs pour les remplir et les retirer.\n\nDans certains modes de jeu, vous devrez les combiner dans un certain ordre.</fr>
+            <it>I cerchi sono divisi in piccoli pezzi. Il tuo compito è facile: sposta i pezzi dal cerchio centrale in quelli esterni per riempirli e rimuoverli.\n\nIn alcune modalità di gioco, dovrai combinarli in un certo ordine.</it>
+            <pt>Círculos são divididos em pequenos pedaços. Seu trabalho é fácil – mova as peças do círculo central para as externas para preencher e removê-las.\n\nEm alguns modos de jogo, você precisará combiná-las em uma determinada ordem.</pt>
+            <ru>Круги разбиваются на мелкие кусочки. Ваша работа проста - перемещайте части из центрального круга к внешнему, чтобы создать диски.\n\nВ некоторых режимах игры вам нужно будет объединить их в определенном порядке.</ru>
+            <nl>INSTRUKTIONER</nl>
+            <no>BRUKSANVISNING</no>
+        </string>
+
+        <string id="LEVEL">
+            <en>LEVEL</en>
+            <es>NIVEL</es>
+            <de>LEVEL</de>
+            <it>LIVELLO</it>
+            <fr>NIVEAU</fr>
+            <pt>NÍVEL</pt>
+            <ru>УРОВЕНЬ</ru>
+        </string>
+
+        <string id="CUSTOMIZE">
+            <en>CUSTOMIZE</en>
+            <es>Personalizar</es>
+            <de>Anpassen</de>
+            <it>Personalizza</it>
+            <fr>Personnaliser</fr>
+            <pt>Personalizar</pt>
+            <ru>подгоняет</ru>
+        </string>
+
+        <string id="VERSION" index="20">
+            <en>VERSION</en>
+            <es>VERSIÓN</es>
+            <de>VERSION</de>
+            <it>VERSIONE</it>
+            <fr>VERSION</fr>
+            <pt>VERSÃO</pt>
+            <ru/>
+        </string>
+
+        <string id="CONTINUE">
+            <en>CONTINUE</en>
+            <es>CONTINUAR</es>
+            <de>WEITER</de>
+            <it>CONTINUARE</it>
+            <fr>CONTINUER</fr>
+            <ru>ПРОДОЛЖИТЬ</ru>
+            <pt>CONTINUAR</pt>
+            <nl>FORTSÄTTA</nl>
+            <no>FORTSETTE</no>
+        </string>
+
+        <string id="CONTINUE_QUESTION">
+            <en>CONTINUE?</en>
+            <es>¿CONTINUAR?</es>
+            <de>WEITER?</de>
+            <it>CONTINUARE?</it>
+            <fr>CONTINUER?</fr>
+            <ru>ПРОДОЛЖИТЬ?</ru>
+            <pt>CONTINUAR?</pt>
+            <nl>FORTSÄTTA?</nl>
+            <no>FORTSETTE?</no>
+        </string>
+
+        <string id="RESET">
+            <en>RESET</en>
+            <es>RESTABLECER</es>
+            <de>ZURÜCKSETZEN</de>
+            <it>AZZERA</it>
+            <fr>RÉINITIALISER</fr>
+            <ru>ПОВТОРНАЯ УСТАНОВКА</ru>
+            <pt>RETOMAR</pt>
+            <nl>ÅTERSTÄLLA</nl>
+            <no>NULLSTILLE</no>
+        </string>
+
+        <string id="CONFIRM_RESET">
+            <en>RESET?\nYOUR CURRENT GAME PROGRESS WILL BE LOST.</en>
+            <es>¿RESTABLECER?\nSE PERDERÁ EL PROGRESO ACTUAL.</es>
+            <de>ZURÜCKSETZEN?\nDEIN AKTUELLER SPIELFORTSCHRITT\nWIRD GELÖSCHT.</de>
+            <it>AZZERA?\nI TUOI PROGRESSI DI GIOCO ATTUALI\nANDRANNO PERDUTI.</it>
+            <fr>RÉINITIALISER?\nVOTRE PROGRESSION ACTUELLE\nDANS LE JEU SERA PERDUE.</fr>
+            <ru>СБРОСИТЬ?\nВАШ ТЕКУЩИЙ ИГРОВОЙ\nПРОГРЕСС БУДЕТ ПОТЕРЯН.</ru>
+            <pt>RETOMAR?\nA TUA ACTUAL EVOLUÇÃO DO\nJOGO SERÁ PERDIDA!</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="RESTART" index="89">
+            <en>RESTART</en>
+            <es>REINICIAR</es>
+            <de>NEUSTART</de>
+            <it>RIAVVIARE</it>
+            <fr>RECOMMENCER</fr>
+            <ru>ЗАПУСТИТЬ СНОВА</ru>
+            <pt>REINICIAR</pt>
+            <nl>OMSTART</nl>
+            <no>OMSTART</no>
+        </string>
+
+        <string id="RESTART_QUESTION" index="89">
+            <en>RESTART?</en>
+            <es>¿REINICIAR?</es>
+            <de>NEUSTART?</de>
+            <it>RIAVVIARE?</it>
+            <fr>RECOMMENCER?</fr>
+            <ru>ЗАПУСТИТЬ СНОВА?</ru>
+            <pt>REINICIAR?</pt>
+        </string>
+
+        <string id="PAUSED">
+            <en>Paused</en>
+            <es>Pausa</es>
+            <de>Angehalten</de>
+            <it>Pausa</it>
+            <fr>Pause</fr>
+            <ru>Пауза</ru>
+            <pt>Pausado</pt>
+            <nl>Pauzeren</nl>
+            <no>Pauset</no>
+        </string>
+
+        <string id="CLEARED">
+            <en>CLEARED</en>
+            <es>COMPLETADO</es>
+            <de>GESCHAFFT</de>
+            <it>LIVELLO COMPLETATO</it>
+            <fr>NIVEAU TERMINÉ</fr>
+            <ru>УРОВЕНЬ ПРОЙДЕН</ru>
+            <pt>NÍVEL CONCLUÍDO</pt>
+            <nl>CLEARED</nl>
+            <no>CLEARED</no>
+        </string>
+
+        <string id="CLAIM">
+            <en>CLAIM</en>
+            <es>RECLAMACIÓN</es>
+            <de>ANSPRUCH</de>
+            <it>RICHIESTA</it>
+            <fr>PRÉTENDRE</fr>
+            <ru>ЗАПРОС</ru>
+            <pt>AFIRMAÇÃO</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="SECOND_CHANCE">
+            <en>SECOND CHANCE</en>
+            <es>SEGUNDA OPORTUNIDAD</es>
+            <de>ZWEITE CHANCE</de>
+            <it>SECONDA POSSIBILITÀ</it>
+            <fr>DEUXIÈME CHANCE</fr>
+            <ru>ВТОРОЙ ШАНС</ru>
+            <pt>SEGUNDA CHANCE</pt>
+            <nl>ANDRA CHANS</nl>
+            <no>NY SJANSE</no>
+        </string>
+
+        <string id="OUF_OF_MOVES">
+            <en>OUT OF MOVES!</en>
+            <de>KEINE ZÜGE MEHR!</de>
+            <es>¡TE HAS QUEDADO\nSIN MOVIMIENTOS!</es>
+            <fr>À COURT DE\nDÉPLACEMENTS !</fr>
+            <it>HAI ESAURITO LE MOSSE!</it>
+            <pt>SEM MOVIMENTOS!</pt>
+            <ru>НЕТ ХОДОВ!</ru>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="OUF_OF_TIME">
+            <en>OUT OF TIME!</en>
+            <de>DIE ZEIT IST ABGELAUFEN!</de>
+            <es>¡SE ACABÓ EL TIEMPO!</es>
+            <fr>À COURT DE TEMPS!</fr>
+            <it>TEMPO SCADUTO!</it>
+            <pt>ACABOU O TEMPO!</pt>
+            <ru>ВРЕМЯ ЗАКОНЧИЛОСЬ!</ru>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="LT_SCORE">
+            <en>EARN POINTS BY CREATING CIRCLES. </en>
+            <de>SAMMLE PUNKTE, INDEM DU KREISE BILDEST. </de>
+            <es>CREA CÍRCULOS PARA OBTENER PUNTOS. </es>
+            <fr>GAGNEZ DES POINTS EN CRÉANT DES CERCLES. </fr>
+            <it>GUADAGNA PUNTI CREANDO CERCHI. </it>
+            <pt>GANHE PONTOS CRIANDO CÍRCULOS. </pt>
+            <ru>ЗАРАБАТЫВАЙТЕ ОЧКИ, СОЗДАВАЯ КРУГИ. </ru>
+        </string>
+
+        <string id="LT_TIMER">
+            <en>YOU ARE LIMITED BY TIME. </en>
+            <de>DEINE ZEIT IST BESCHRÄNKT. </de>
+            <es>DISPONES DE TIEMPO LIMITADO. </es>
+            <fr>VOUS ÊTES LIMITÉ PAR LE TEMPS. </fr>
+            <it>IL TEMPO È LIMITATO. </it>
+            <pt>VOCÊ TEM LIMITE DE TEMPO. </pt>
+            <ru>ВЫ ОГРАНИЧЕНЫ ВО ВРЕМЕНИ. </ru>
+        </string>
+
+        <string id="LT_SHAPE">
+            <en>EARN POINTS BY CREATING SHAPES. </en>
+            <de>SAMMLE PUNKTE, INDEM DU FORMEN BILDEST. </de>
+            <es>CREAD FORMAS PARA OBTENER PUNTOS. </es>
+            <fr>GAGNEZ DES POINTS EN CRÉANT DES FORMES. </fr>
+            <it>GUADAGNA PUNTI CREANDO FORME. </it>
+            <pt>GANHE PONTOS CRIANDO FORMAS. </pt>
+            <ru>ЗАРАБАТЫВАЙТЕ ОЧКИ, СОЗДАВАЯ ФОРМЫ. </ru>
+        </string>
+
+        <string id="LT_DISKS_TIMER">
+            <en>BE CAREFUL, CIRCLES EXPLODE AFTER SOME TIME. </en>
+            <de>SEI VORSICHTIG, KREISE EXPLODIEREN NACH EINER WEILE. </de>
+            <es>TEN CUIDADO, LOS CÍRCULOS EXPLOTAN AL CABO DE UN RATO. </es>
+            <fr>ATTENTION, LES CERCLES EXPLOSENT APRÈS UN CERTAIN TEMPS. </fr>
+            <it>FAI ATTENZIONE, I CERCHI ESPLODONO DOPO UN PO' DI TEMPO. </it>
+            <pt>CUIDADO, OS CÍRCULOS EXPLODEM DEPOIS DE ALGUM TEMPO. </pt>
+            <ru>БУДЬТЕ ОСТОРОЖНЫ, КРУГИ ЧЕРЕЗ НЕКОТОРОЕ ВРЕМЯ ВЗОРВУТСЯ. </ru>
+        </string>
+
+        <string id="NEXT">
+            <en>NEXT</en>
+            <de>WEITER</de>
+            <es>SIGUIENTE</es>
+            <fr>SUIVANT</fr>
+            <it>AVANTI</it>
+            <pt>SEGUINTE</pt>
+            <ru>СЛЕДУЮЩИЙ</ru>
+        </string>
+
+        <string id="MOVE_KEY">
+            <en>Use the arrow keys to move</en>
+            <de>Bewegen mit den Pfeiltasten</de>
+            <es>Usa las flechas para moverte</es>
+            <fr>Utilisez les touches des flèches \n pour vous déplacer</fr>
+            <it>Usa i tasti con le frecce \n per muoverti</it>
+            <pt>Use as teclas de seta para mover</pt>
+            <ru>Используйте клавиши со \n стрелками для перемещения</ru>
+        </string>
+
+        <string id="MOVE_TOUCH">
+            <en>Use the joystick to move</en>
+            <de>Bewegen mit dem Joystick</de>
+            <es>Usa el joystick para moverte</es>
+            <fr>Utilisez la manette \n pour vous déplacer</fr>
+            <it>Usa il joystick per muoverti</it>
+            <pt>Use o joystick para mover</pt>
+            <ru>Используйте джойстик для \n перемещения</ru>
+        </string>
+
+        <string id="TUTORIAL_1">
+            <en>Long pass</en>
+            <de>Langer Pass</de>
+            <es>Pase largo</es>
+            <fr>Passe longue</fr>
+            <it>Passaggio\nlungo</it>
+            <pt>Passe longo</pt>
+            <ru>Длинный пас</ru>
+        </string>
+
+        <string id="TUTORIAL_2">
+            <en>Pass /\nSwitch</en>
+            <de>Pass /\nWechseln</de>
+            <es>Pase /\nCambio</es>
+            <fr>Passe /\nÉchange</fr>
+            <it>Passaggio /\nCambio</it>
+            <pt>Passe /\nCambio</pt>
+            <ru>Пас /\nПереключить</ru>
+        </string>
+
+        <string id="TUTORIAL_3">
+            <en>Shoot /\n Tackle</en>
+            <de>Schießen /\nAngreifen</de>
+            <es>Tiro /\n Entrada</es>
+            <fr>Tirer /\n Tacler</fr>
+            <it>Tiro /\n Contrasto</it>
+            <pt>Chutar /\n Dar carrinho</pt>
+            <ru>Ударить /\nПерехватить</ru>
+        </string>
+
+        <string id="TUTORIAL_4">
+            <en>Hold to aim</en>
+            <de>Zum Zielen halten</de>
+            <es>Pulsa para apuntar</es>
+            <fr>Maintenir pour viser</fr>
+            <it>Tieni premuto\nper mirare</it>
+            <pt>Segure para mirar</pt>
+            <ru>Удерживайте,\nчтобы прицелиться</ru>
+        </string>
+
+        <string id="PLAYER">
+            <en>Player</en>
+            <de>Spieler</de>
+            <es>Jugador</es>
+            <fr>Joueur</fr>
+            <it>Giocatore</it>
+            <pt>Jogador</pt>
+            <ru>Игрок</ru>
+        </string>
+
+        <string id="COMPUTER">
+            <en>Computer</en>
+            <de>Computer</de>
+            <es>Ordenador</es>
+            <fr>Ordinateur</fr>
+            <it>Computer</it>
+            <pt>Computador</pt>
+            <ru>Компьютер</ru>
+        </string>
+
+        <string id="MOD_1">
+            <en>Friendly match</en>
+            <de>Freundschaftsspiel</de>
+            <es>Partido amistoso</es>
+            <fr>Match amical</fr>
+            <it>Partita amichevole</it>
+            <pt>Jogo amigável</pt>
+            <ru>Товарищеский матч</ru>
+        </string>
+
+        <string id="MOD_2">
+            <en>Tournament match</en>
+            <de>Turnierspiel</de>
+            <es>Partido de torneo</es>
+            <fr>Match de tournoi</fr>
+            <it>Partita del torneo</it>
+            <pt>Partida do torneio</pt>
+            <ru>Турнирный матч</ru>
+        </string>
+
+        <string id="FLAG_1">
+            <en>France</en>
+            <de>Frankreich</de>
+            <es>Francia</es>
+            <fr>France</fr>
+            <it>Francia</it>
+            <pt>França</pt>
+            <ru>Франция</ru>
+        </string>
+
+        <string id="FLAG_2">
+            <en>England</en>
+            <de>England</de>
+            <es>Inglaterra</es>
+            <fr>Angleterre</fr>
+            <it>Inghilterra</it>
+            <pt>Inglaterra</pt>
+            <ru>Англия</ru>
+        </string>
+
+        <string id="FLAG_3">
+            <en>Spain</en>
+            <de>Spanien</de>
+            <es>España</es>
+            <fr>Espagne</fr>
+            <it>Spagna</it>
+            <pt>Espanha</pt>
+            <ru>Испания</ru>
+        </string>
+
+        <string id="FLAG_4">
+            <en>Netherlands</en>
+            <de>Niederlande</de>
+            <es>Holanda</es>
+            <fr>Pays-Bas</fr>
+            <it>Olanda</it>
+            <pt>Holanda</pt>
+            <ru>Нидерланды</ru>
+        </string>
+
+        <string id="FLAG_5">
+            <en>Germany</en>
+            <de>Deutschland</de>
+            <es>Alemania</es>
+            <fr>Allemagne</fr>
+            <it>Germania</it>
+            <pt>Alemanha</pt>
+            <ru>Германия</ru>
+        </string>
+
+        <string id="FLAG_6">
+            <en>Russia</en>
+            <de>Russland</de>
+            <es>Rusia</es>
+            <fr>Russie</fr>
+            <it>Russia</it>
+            <pt>Rússia</pt>
+            <ru>Россия</ru>
+        </string>
+
+        <string id="FLAG_7">
+            <en>Italy</en>
+            <de>Italien</de>
+            <es>Italia</es>
+            <fr>Italie</fr>
+            <it>Italia</it>
+            <pt>Itália</pt>
+            <ru>Италия</ru>
+        </string>
+
+        <string id="HALF_TIME">
+            <en>Half-Time</en>
+            <de>Halbe Zeit</de>
+            <es>Un tiempo</es>
+            <fr>Mi-temps</fr>
+            <it>Metà tempo</it>
+            <pt>1 tempo</pt>
+            <ru>Перерыв</ru>
+        </string>
+
+        <string id="FULL_TIME">
+            <en>Full-Time</en>
+            <de>Ganze Zeit</de>
+            <es>Entero</es>
+            <fr>Fin de match</fr>
+            <it>Tempo pieno</it>
+            <pt>Jogo completo</pt>
+            <ru>Полный тайм</ru>
+        </string>
+
+        <string id="YOU_WIN">
+            <en>You win!</en>
+            <de>Du hast gewonnen!</de>
+            <es>¡Has ganado!</es>
+            <fr>Vous avez gagné !</fr>
+            <it>Hai vinto!</it>
+            <pt>Você vence!</pt>
+            <ru>Вы победили!</ru>
+        </string>
+
+        <string id="YOU_LOST">
+            <en>You lost!</en>
+            <de>Du hast verloren!</de>
+            <es>¡Has perdido!</es>
+            <fr>Vous avez perdu!</fr>
+            <it>Hai perso!</it>
+            <pt>Você perdeu!</pt>
+            <ru>Вы проиграли!</ru>
+        </string>
+
+        <string id="DRAW">
+            <en>Draw!</en>
+            <de>Unentschieden!</de>
+            <es>¡Empate!</es>
+            <fr>Match nul!</fr>
+            <it>Pareggio!</it>
+            <pt>Empate!</pt>
+            <ru>Ничья!</ru>
+        </string>
+
+        <string id="MMENU">
+            <en>MAIN MENU</en>
+            <de>HAUPTMENÜ</de>
+            <es>LISTA PRINCIPAL</es>
+            <fr>MENU PRINCIPAL</fr>
+            <it>MENÙ PRINCIPALE</it>
+            <pt>MENU PRINCIPAL</pt>
+            <ru>ГЛАВНОЕ МЕНЮ</ru>
+        </string>
+		
+		<string id="TOUCH_SHOOT">
+            <en>MAIN MENU</en>
+            <de>HAUPTMENÜ</de>
+            <es>LISTA PRINCIPAL</es>
+            <fr>MENU PRINCIPAL</fr>
+            <it>MENÙ PRINCIPALE</it>
+            <pt>MENU PRINCIPAL</pt>
+            <ru>ГЛАВНОЕ МЕНЮ</ru>
+        </string>
+		
+		<string id="KEY_SHOOT">
+            <en>HOLD D TO SHOOT \n USE THE ARROW KEYS TO AIM</en>
+            <de>HALTE D, UM ZU SCHIESSEN \n ZIELEN SIE MIT DEN PFEILTASTEN</de>
+            <es>MANTÉN PRESIONADO PARA DISPARAR \n UTILIZA LAS TECLAS DE FLECHA PARA APUNTAR</es>
+            <fr>MAINTENEZ D POUR TIRER \n UTILISEZ LES TOUCHES FLÉCHÉES POUR VISER</fr>
+            <it>TIENI PREMUTO PER SPARARE \n USA I TASTI FRECCIA PER MIRARE</it>
+            <pt>SEGURA PARA DISPARAR \n USA AS SETAS DO TECLADO PARA MIRAR</pt>
+            <ru>УДЕРЖИВАЙТЕ D, ЧТОБЫ УДАРИТЬ ПО МЯЧУ \n ИСПОЛЬЗУЙТЕ КЛАВИШИ СО СТРЕЛКАМИ, ЧТОБЫ ПРИЦЕЛИТЬСЯ</ru>
+        </string>
+		
+		<string id="TOUCH_SHOOT">
+            <en>HOLD THE SHOOT BUTTON TO SHOOT \n USE THE JOYSTICK TO AIM</en>
+            <de>HALTEN SIE DIE SCHUSSTASTE, UM ZU SCHIESSEN \n ZIELEN SIE MIT DEM JOYSTICK</de>
+            <es>PARA DISPARAR, MANTÉN PRESIONADO EL BOTÓN DE DISPARO \n UTILIZA EL JOYSTICK PARA APUNTAR</es>
+            <fr>MAINTENEZ LE BOUTON DE TIR POUR TIRER \n UTILISEZ LE JOYSTICK POUR VISER</fr>
+            <it>TIENI PREMUTO IL PULSANTE DI FUOCO PER SPARARE \n USA IL JOYSTICK PER MIRARE</it>
+            <pt>SEGURA O BOTÃO DE DISPARO PARA DISPARAR \n USA O JOYSTICK PARA MIRAR</pt>
+            <ru>УДЕРЖИВАЙ КНОПКУ ДЛЯ СТРЕЛЬБЫ, ЧТОБЫ ВЫСТРЕЛИТЬ \n ИСПОЛЬЗУЙ ДЖОЙСТИК, ЧТОБЫ ПРИЦЕЛИТЬСЯ</ru>
+        </string>
+		
+    </strings>
+</stringresources>
